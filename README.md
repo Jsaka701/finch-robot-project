@@ -3,6 +3,8 @@
 ## Essential Question
 How can we apply object-oriented programming principles and Java concepts to create interactive, autonomous robot behaviors that solve real-world challenges?
 
+Object-oriented programming enables us to organize a robot’s components into classes, such as sensors and motors. In Java, we give each part actions and traits. This enables the robot to make informed decisions and solve real-world problems, such as avoiding obstacles or delivering items, independently.
+
 ## Project Overview
 In this project-based learning experience, you will program a Finch 2.0 robot to perform one of three challenges:
 1. Choreograph a dance routine (with movement, lights, and sound)
@@ -67,9 +69,16 @@ Your program must include at least 5 of these Java/OOP concepts:
 - GitHub repository with organized file structure
 - README.md file including:
   * Project description and objectives
+  Our project goal is to create a choreographed dance routine for our Finch that synchronizes Movement patterns (forward/backward, turns), LED light displays beak and tail, Sound patterns using the buzzer and Consider using arrays to store sequences of movements/lights/sounds
+
   * Description of design choices
-  * Challenges faced and solutions
+We choose this design because we thought it fits the vibe of mary had a little lamb and we choose this song strictly on nostolgia, we are graduating in a couple days so it was nice to hear a song from our childhood. 
+
+  * Challenges faced and solutions 
+  Challenges we faced were making sure each note was correct to sound exactly like mary had a little lamb. W also faced a hard challenge trying to play the usic and move at the same time, but we managed to overcome these challenges and complete our task. 
+
   * Future enhancements
+  with more time we would defintly use music notes that can represent a iconic rnb song like drake or kanye west. 
   * Video or images of your robot in action (embedded or linked)
 
 ## Project Rubric (16 points total)
