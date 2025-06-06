@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
+
 /**
  * This is an abstract class that is inherited by Microbit.java, Hummingbird.java and Finch.java.
  * It includes methods to print on the micro:bit LED array or set those LEDs individually. It also
